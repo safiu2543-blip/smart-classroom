@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Smart Attendance Management System",
+  "description": "A comprehensive digital attendance and course management platform for teachers and students, featuring real-time attendance tracking, code-based enrollment, and lecture content distribution.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
